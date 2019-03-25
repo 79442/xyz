@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: Parallel03IT
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 1, Skipped: 3, Time elapsed: 3.037 sec <<< FAILURE! - in Parallel03IT
+Scenario: Search for a product  Time elapsed: 1.766 sec  <<< ERROR!
+java.lang.ClassCastException: java.lang.String cannot be cast to java.util.Map
+

@@ -1,0 +1,13 @@
+Parallel02IT.class
+com\mavenit\selenium\training\pages\BasketPage.class
+com\mavenit\selenium\training\pages\HeaderPage.class
+Parallel01IT.class
+com\mavenit\selenium\training\step_def\FilterSteps.class
+com\mavenit\selenium\training\step_def\SearchSteps.class
+com\mavenit\selenium\training\pages\ProductDescriptionPage.class
+com\mavenit\selenium\training\Hooks.class
+com\mavenit\selenium\training\driver\DriverManager.class
+com\mavenit\selenium\training\pages\ResultsPage.class
+com\mavenit\selenium\training\RunCukesTest.class
+com\mavenit\selenium\training\step_def\BasketSteps.class
+Parallel03IT.class

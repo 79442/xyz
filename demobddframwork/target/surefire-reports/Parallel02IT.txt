@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: Parallel02IT
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 2, Skipped: 8, Time elapsed: 3.355 sec <<< FAILURE! - in Parallel02IT
+Scenario: Filter By Rating  Time elapsed: 1.924 sec  <<< ERROR!
+java.lang.ClassCastException: java.lang.String cannot be cast to java.util.Map
+
+Scenario: Filter by Price range  Time elapsed: 0.051 sec  <<< ERROR!
+java.lang.ClassCastException: java.lang.String cannot be cast to java.util.Map
+
